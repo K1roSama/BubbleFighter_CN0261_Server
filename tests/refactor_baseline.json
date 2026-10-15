@@ -1,0 +1,886 @@
+{
+  "baseline_commit": "934e04280bddb01161f4f5679d706870756206c1",
+  "source_files": [
+    {
+      "original_path": "Source/Server/Main.cpp",
+      "path": "src/application/main.cpp",
+      "sha256": "8adfee89879fa0d26ee42adc4f62b849b887b607d6b5b613d6bd0acc4e6e76a0"
+    },
+    {
+      "original_path": "Source/ServerCore/Application/AccountCommand.cpp",
+      "path": "src/application/account_command.cpp",
+      "sha256": "c821600d9f63b6386e841b00cc5eea6623f66cf93e38546bb57e2dc8aefe357a"
+    },
+    {
+      "original_path": "Source/ServerCore/Application/AccountCommand.h",
+      "path": "src/application/account_command.h",
+      "sha256": "faf548b47ee67b09dba5255d30b8ac2820dba36d6f12cf3d210630330c48c4e7"
+    },
+    {
+      "original_path": "Source/ServerCore/Application/ServerApplication.cpp",
+      "path": "src/application/server_application.cpp",
+      "sha256": "8331bb2bec37749825eacab66237b738d20083bcd0d67705931d8f300721e5c4"
+    },
+    {
+      "original_path": "Source/ServerCore/Application/ServerApplication.h",
+      "path": "src/application/server_application.h",
+      "sha256": "36a58fda6314dc26f01011c89017212360b68dbe0d1d0003b0e96daa1d9be184"
+    },
+    {
+      "original_path": "Source/ServerCore/Authentication/AccountRepository.cpp",
+      "path": "src/features/authentication/account_repository.cpp",
+      "sha256": "e8760f980db2785cd13a20e88df1b79adaa9052dfd834c23ec0c565661a3953a"
+    },
+    {
+      "original_path": "Source/ServerCore/Authentication/AccountRepository.h",
+      "path": "src/features/authentication/account_repository.h",
+      "sha256": "f9b0fb93b265c741c53a1fcee06a4a4e8bfcd1add8e0303fe27f40fcd2149d8a"
+    },
+    {
+      "original_path": "Source/ServerCore/Authentication/AuthenticationListener.cpp",
+      "path": "src/features/authentication/authentication_listener.cpp",
+      "sha256": "e2b760f3a0417b8dd28e6184ffdd7de7ee4eec00918a156e3512e12bf62aeba8"
+    },
+    {
+      "original_path": "Source/ServerCore/Authentication/AuthenticationListener.h",
+      "path": "src/features/authentication/authentication_listener.h",
+      "sha256": "ae302e61234eafe21e30feaa10b03384fc98f4241eb4c7a6e586eb889c75f85e"
+    },
+    {
+      "original_path": "Source/ServerCore/Authentication/PasswordCredentials.cpp",
+      "path": "src/features/authentication/password_credentials.cpp",
+      "sha256": "eef9fbd9de1651b03b346fbd14fc1d98bc30f735dda18003e23aeed43c3a0e38"
+    },
+    {
+      "original_path": "Source/ServerCore/Authentication/PasswordCredentials.h",
+      "path": "src/features/authentication/password_credentials.h",
+      "sha256": "f35917c207d276b023dde19cd5e99f3677bae4a383421d7745b2e03e712345d0"
+    },
+    {
+      "original_path": "Source/ServerCore/Characters/CharacterRepository.cpp",
+      "path": "src/features/characters/character_repository.cpp",
+      "sha256": "c24de35fdecc7cd02b3d914df57d12a6a1b7909552f972fec9b5462c7ad086bd"
+    },
+    {
+      "original_path": "Source/ServerCore/Characters/CharacterRepository.h",
+      "path": "src/features/characters/character_repository.h",
+      "sha256": "355165a37d77acd9cea78200c2357ca87a41470bf60cc530b2d27067cef542fa"
+    },
+    {
+      "original_path": "Source/ServerCore/Configuration/ServerConfig.cpp",
+      "path": "src/configuration/server_config.cpp",
+      "sha256": "54bfe005f7586a017f3c034c0f4541bba8bedc9d5f2ebabd1bd469bd61232b85"
+    },
+    {
+      "original_path": "Source/ServerCore/Configuration/ServerConfig.h",
+      "path": "src/configuration/server_config.h",
+      "sha256": "bca391f8c086aade917e227bad05c9f3db0f2ca20a4f7738d39ba60ac68c3064"
+    },
+    {
+      "original_path": "Source/ServerCore/Database/MySqlDatabase.cpp",
+      "path": "src/persistence/my_sql_database.cpp",
+      "sha256": "843cb77c3866d1fbac8d78596193c7286f1f3c6814e945e49ac9cd7363fd8e05"
+    },
+    {
+      "original_path": "Source/ServerCore/Database/MySqlDatabase.h",
+      "path": "src/persistence/my_sql_database.h",
+      "sha256": "001f67f169022ad044bd5410d743ff4c9099bb64e67be9f03c31371db2eea57e"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/BattleLife.cpp",
+      "path": "src/game/battle_life.cpp",
+      "sha256": "88cdf8d27d8554f0e1e788915452c1b10e9ed5bbe9e15453838bba3e2fbbd962"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/BattleLife.h",
+      "path": "src/game/battle_life.h",
+      "sha256": "6b091eed8dc7d582c3d5f99099fd215b1a10a9b29e993cc94f7a32c4263571fa"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/BattleLifeKick.cpp",
+      "path": "src/game/battle_life_kick.cpp",
+      "sha256": "0b5c4f2bded95cca358850ff84f71fdba8b7c61c111796581c6c3d8a61d29373"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/BattleProjectiles.cpp",
+      "path": "src/game/battle_projectiles.cpp",
+      "sha256": "3d29ae1ee7f4c9dc706064286c9d688dd5c7e7310ad27dc1b3c229966be92229"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/BattleProjectiles.h",
+      "path": "src/game/battle_projectiles.h",
+      "sha256": "9eea0a7291ab33b7bc339f80af9cf33bc91293c3f654e7002a9c42b35ff61eae"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/ChannelDirectory.cpp",
+      "path": "src/game/channel_directory.cpp",
+      "sha256": "83703c655910bdba1f5fbb1c277992d454bbd94a8c16b66128839e59d7844ec8"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/ChannelDirectory.h",
+      "path": "src/game/channel_directory.h",
+      "sha256": "325ddca5eebf2096088ee6a5ac6b727593436ba56c63f23b58cde33001c8177e"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/ChatDirectory.cpp",
+      "path": "src/game/chat_directory.cpp",
+      "sha256": "9c018f45ea3aac1b567511c323e8a6a40616a846ccc5bd6f770dca2d27542aed"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/ChatDirectory.h",
+      "path": "src/game/chat_directory.h",
+      "sha256": "fb6900626c2788e10516d0adbee42d25885b6851fcd3665b8d247d4bda28885d"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/ClientConnection.cpp",
+      "path": "src/game/client_connection.cpp",
+      "sha256": "516e7fec8d137c5c4b8d8f76939052a2ee2fcb1eda40fd7fd0d71e52aaba6b93"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/ClientConnection.h",
+      "path": "src/game/client_connection.h",
+      "sha256": "6a20161f3fb8ff688771cb627730219b17f72914299c43c3a317d23db8ddb787"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/DamageAttributes.cpp",
+      "path": "src/game/damage_attributes.cpp",
+      "sha256": "26bb420590e63c8ddc5eca96eca3939e2d0eae38d9fb388b39621f557067d0e3"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/DamageAttributes.h",
+      "path": "src/game/damage_attributes.h",
+      "sha256": "aa2863485847c49345763e0cc973eb6eba5e83783dd26c7e2e3dd41565eedd9d"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/DefenseSeedTables.cpp",
+      "path": "src/game/defense_seed_tables.cpp",
+      "sha256": "e15bf4369150288f303265fa8fb7c16675b05c7dad45d3c7063372f0a5c200a9"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/DefenseSeedTables.h",
+      "path": "src/game/defense_seed_tables.h",
+      "sha256": "8b043a117ec1fd8b4cf1593ab9f8caca8ca31f153541a5df28af79fef6d00fe4"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameCharacterCatalog.cpp",
+      "path": "src/game/game_character_catalog.cpp",
+      "sha256": "e5a042760d5b1adbd05876d7a26b2f921178cde018ca8b10656f31710d639deb"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameCharacterCatalog.h",
+      "path": "src/game/game_character_catalog.h",
+      "sha256": "7a535e3b0dd7a368843321eec15237b13f703e582d65648b20a8805b090eb707"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameDefenseCatalog.cpp",
+      "path": "src/game/game_defense_catalog.cpp",
+      "sha256": "2dd050afec24c39a7a6f6bd31c4ebdfe093d563d343f09bbebced36063946b41"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameDefenseCatalog.h",
+      "path": "src/game/game_defense_catalog.h",
+      "sha256": "eae045297b79662f1b9b9e91f6a371f19350f6414fe0fb22f291de6b94ff74f4"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameMapCatalog.cpp",
+      "path": "src/game/game_map_catalog.cpp",
+      "sha256": "3a7590f9c27e25a029389624af079d2d4b506e309d91dff987f82f5323a05c50"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameMapCatalog.h",
+      "path": "src/game/game_map_catalog.h",
+      "sha256": "a5db45f49da7319a9b9295e9adf6475142f85ba2169b49b477494dcb23f33813"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameRespawnCatalog.cpp",
+      "path": "src/game/game_respawn_catalog.cpp",
+      "sha256": "6c5ac950719123bad10b5a21cde93f9e3ea676f2e5fbab9523739483735addf9"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameRespawnCatalog.h",
+      "path": "src/game/game_respawn_catalog.h",
+      "sha256": "77a8ed34bebfd9389f3b762b651b8d144556450348e1a1df3776cee8da1974af"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameRoundCoordinator.cpp",
+      "path": "src/game/game_round_coordinator.cpp",
+      "sha256": "cd780a25dd0b9abac54ad24bd7222808900234b47d23b29b6b092a8062d8ad1a"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameRoundCoordinator.h",
+      "path": "src/game/game_round_coordinator.h",
+      "sha256": "efe03f4974d1f50286074a520fafff0aba2616865809f11c0dc57911edc40f01"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameRoundCoordinatorDefense.cpp",
+      "path": "src/game/game_round_coordinator_defense.cpp",
+      "sha256": "61ae04d6179c6f3feacc4c1f8196818f26fcb9371a1f91dfacfe1ff6cb0f0d4a"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameRoundCoordinatorEnd.cpp",
+      "path": "src/game/game_round_coordinator_end.cpp",
+      "sha256": "aaba2d77e27ad5a235b9902c01dcb627cb14b22fe615fa701b9670beb97a2165"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameRoundCoordinatorRespawn.cpp",
+      "path": "src/game/game_round_coordinator_respawn.cpp",
+      "sha256": "10e3471682266abfc50345257a6be8a5b7865d2691e9553165cbc19d94d45087"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameSession.cpp",
+      "path": "src/game/game_session.cpp",
+      "sha256": "75d9fd29500a7de06e4a8166a278aa20a577f1855b2f1d631d551434539fb68f"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameSession.h",
+      "path": "src/game/game_session.h",
+      "sha256": "b849aa601f2a11529afbc6e7f0e42eda54d5d7959e1df9bc73152c21cbad8a85"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameSessionChat.cpp",
+      "path": "src/game/game_session_chat.cpp",
+      "sha256": "89b5683d54269820ec947ff2ef40c72b61c1ac4d3aa67595902c12a6cef08a98"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameSessionPing.cpp",
+      "path": "src/game/game_session_ping.cpp",
+      "sha256": "e3f3fb5b2ce8340f9c0339cc46f66b2db0dcb317583d8da99ec44742f2a27bfa"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameSessionPlaza.cpp",
+      "path": "src/game/game_session_plaza.cpp",
+      "sha256": "8aa96931adafc17acec54c5ac9d1269870c414b4813f59a50ce15ae6014d864f"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameSessionRooms.cpp",
+      "path": "src/game/game_session_rooms.cpp",
+      "sha256": "a360b4546781c2194ac9ed4182c925b3be3ff1a0bd3708678806af112930c821"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameSettlement.cpp",
+      "path": "src/game/game_settlement.cpp",
+      "sha256": "39a22a246674b822d0c5ab2f0e92a1da5d171e69a5fe3d2917339f0f5680c448"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameSettlement.h",
+      "path": "src/game/game_settlement.h",
+      "sha256": "a9d282fc2f2434eeef86fe0a8ccea5ab920f1fb605c97d1c1f59562f41a291af"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameWeaponCatalog.cpp",
+      "path": "src/game/game_weapon_catalog.cpp",
+      "sha256": "9584a8e198e9507aa29cd790b7973d9529fac62e4358091e06909f6da4c29b32"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/GameWeaponCatalog.h",
+      "path": "src/game/game_weapon_catalog.h",
+      "sha256": "71f2c83b72ab9a8ae17efd8fb421bf8aedfde3277c8025a28ceb6932fdfd5620"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/HealthTraceTracker.cpp",
+      "path": "src/game/health_trace_tracker.cpp",
+      "sha256": "79af56eaf2a0d7242e9d8c87c1a1ad99666f8eb80a3b27261c8f91266262cb3c"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/HealthTraceTracker.h",
+      "path": "src/game/health_trace_tracker.h",
+      "sha256": "d7c1c4280edb736ef6127adc3f73476538d50e70d4d9c9865ce32a5e1ff4391a"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/ImpactDamage.cpp",
+      "path": "src/game/impact_damage.cpp",
+      "sha256": "af731611d2670b87f0786ca06b06fd7440d909cb3c0aa48ded6a0a05ef6b8c67"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/ImpactDamage.h",
+      "path": "src/game/impact_damage.h",
+      "sha256": "2abe7303290a60aaa2bebe0ba93ac016ada89abead1dada934fb72b5c4b81742"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/PlayerDamage.cpp",
+      "path": "src/game/player_damage.cpp",
+      "sha256": "a8527fa1e0d308f2838f67405b852613c76d24983734c0bd58d836a07c76cb3d"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/PlayerDamage.h",
+      "path": "src/game/player_damage.h",
+      "sha256": "2a881ecbab1bcbb0ce28661fc1e19647547b55508b2065de745c7e4e883ed84a"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/PlazaDirectory.cpp",
+      "path": "src/game/plaza_directory.cpp",
+      "sha256": "326119729def0758ee8e39156c91db0976cd1a85ed87841b25b8dcfa11484567"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/PlazaDirectory.h",
+      "path": "src/game/plaza_directory.h",
+      "sha256": "5c1f94d6b9fa76e753450d223b8529ad38db9070c2963003e26b444e63f455ce"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/RoomDirectory.cpp",
+      "path": "src/game/room_directory.cpp",
+      "sha256": "e5250b4e6284e07353f4efdea032c2fd585ccab8c1dc890de9d13de92bbc318a"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/RoomDirectory.h",
+      "path": "src/game/room_directory.h",
+      "sha256": "a7be7c9dc72e57c6445398c6a7211acf596184636f943ca81c101ff35911c611"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/SessionPingTracker.cpp",
+      "path": "src/game/session_ping_tracker.cpp",
+      "sha256": "87b33cf9e5fb543006746ec03ff841f17fe23bc01ea236b79d5eed28e2b163bc"
+    },
+    {
+      "original_path": "Source/ServerCore/Game/SessionPingTracker.h",
+      "path": "src/game/session_ping_tracker.h",
+      "sha256": "7c1085c8075e1c66100a62a57a5d644c00fb0f185ed7c6710fa566627648a0d7"
+    },
+    {
+      "original_path": "Source/ServerCore/Inventory/EquippedCharacter.cpp",
+      "path": "src/features/inventory/equipped_character.cpp",
+      "sha256": "319afaed0e1e5414887c7537d887d545c5769d17a9ece92f8df62cb450412cfa"
+    },
+    {
+      "original_path": "Source/ServerCore/Inventory/EquippedCharacter.h",
+      "path": "src/features/inventory/equipped_character.h",
+      "sha256": "b83ab817b1103f2ffc2ce20e3bcc8500401b993444335711794521db7940a749"
+    },
+    {
+      "original_path": "Source/ServerCore/Inventory/InventoryExpiry.cpp",
+      "path": "src/features/inventory/inventory_expiry.cpp",
+      "sha256": "c743e43adb892b5e8c91fa923866c22e7d08c17d834c89a197fa7e576d6e6e3d"
+    },
+    {
+      "original_path": "Source/ServerCore/Inventory/InventoryExpiry.h",
+      "path": "src/features/inventory/inventory_expiry.h",
+      "sha256": "59e9d420ce9072c8a94397b8236dfb8e6dc44375e2d57da240a3fbc96c3e6e16"
+    },
+    {
+      "original_path": "Source/ServerCore/Inventory/InventoryRepository.cpp",
+      "path": "src/features/inventory/inventory_repository.cpp",
+      "sha256": "ee461dc5ea8f5b2d40606f0973fe7775b2bc1821b0ad4d317797e20536f5925f"
+    },
+    {
+      "original_path": "Source/ServerCore/Inventory/InventoryRepository.h",
+      "path": "src/features/inventory/inventory_repository.h",
+      "sha256": "aa62d959da5ac92e8f2b2d6625a6fb0ad822ec855efce59691fb67ab1804eaa6"
+    },
+    {
+      "original_path": "Source/ServerCore/Logging/ServerLogger.cpp",
+      "path": "src/logging/server_logger.cpp",
+      "sha256": "fd2adb092f1e78dd0f5b9d50c8c53eb593c78579f5aef93eee14ca76d0c899ac"
+    },
+    {
+      "original_path": "Source/ServerCore/Logging/ServerLogger.h",
+      "path": "src/logging/server_logger.h",
+      "sha256": "3e19742e61854b5208c2041c1552c21191a2e24f061136eccda7e09735e949ae"
+    },
+    {
+      "original_path": "Source/ServerCore/Network/TcpListener.cpp",
+      "path": "src/network/tcp_listener.cpp",
+      "sha256": "a819de93feb0e1b5a73c6dac7df38d52f845c1b7dd4aadc62a7631097ec116f2"
+    },
+    {
+      "original_path": "Source/ServerCore/Network/TcpListener.h",
+      "path": "src/network/tcp_listener.h",
+      "sha256": "ae23468066d689f5e73ba9cb081b2e13762ea27392d55d2e501ebaa85b71f995"
+    },
+    {
+      "original_path": "Source/ServerCore/Progression/ProgressionPolicy.cpp",
+      "path": "src/features/progression/progression_policy.cpp",
+      "sha256": "1722ef1d995fa6cb02849ef067cf958091459c7f03f1094474a29087c2f9b77c"
+    },
+    {
+      "original_path": "Source/ServerCore/Progression/ProgressionPolicy.h",
+      "path": "src/features/progression/progression_policy.h",
+      "sha256": "1c22c032d935813b35cd5a51d7ed249844a042478265273ef00248c5ba598ed9"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/BattleStateMessages.cpp",
+      "path": "src/protocol/battle_state_messages.cpp",
+      "sha256": "57843a7ca44cec0b7a6f6e2f43608726d8d970849d1ac2ac6c488c74ce9f9b3c"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/BattleStateMessages.h",
+      "path": "src/protocol/battle_state_messages.h",
+      "sha256": "d35aa497279e1b5045e8493bf18813386cbcb5e593f9e16b7ac30346ebbc1517"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/CharacterMessages.cpp",
+      "path": "src/protocol/character_messages.cpp",
+      "sha256": "ab30d66a0bd273fdf66b8358d17a7855dc0834300febc8858592f56da9ecdb11"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/CharacterMessages.h",
+      "path": "src/protocol/character_messages.h",
+      "sha256": "0f9b8c94bf0d0f00ebe42bf5f35b44386e44496f9b0d9c7a2f56c228e437e034"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/ChatMessages.cpp",
+      "path": "src/protocol/chat_messages.cpp",
+      "sha256": "7353cfe1f3b51f14c8011a13e486bd33918375176c43793f4a2c8118b52c64a4"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/ChatMessages.h",
+      "path": "src/protocol/chat_messages.h",
+      "sha256": "1498724381007066910648f22f62c5f0355fef07adbbc6bf62343f6786b82518"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/DamageAttributeMessages.cpp",
+      "path": "src/protocol/damage_attribute_messages.cpp",
+      "sha256": "9b7434a9e852eee8c6b18d5c3bb8f4c7f85aa07ea04566b8dc0f3f0381dca3d4"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/DamageAttributeMessages.h",
+      "path": "src/protocol/damage_attribute_messages.h",
+      "sha256": "d338dc418bcbae0155614547b9bfdbd92f6a0b5cbd73fee3c698fd9a00b908da"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/DamageCalculationMessages.cpp",
+      "path": "src/protocol/damage_calculation_messages.cpp",
+      "sha256": "4f94ac340c8678bbbd202206ea34ec69542029ab35a566c732eeaede8d09a8ba"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/DamageCalculationMessages.h",
+      "path": "src/protocol/damage_calculation_messages.h",
+      "sha256": "c40f9bd31bea1a18db12b7e99744b27aea94ef383d37fd95ef4373dc79ba0061"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/DefenseSeedMessages.cpp",
+      "path": "src/protocol/defense_seed_messages.cpp",
+      "sha256": "c3253391d0aaaf017b11cbe49905aa626150bb2cfb9784a9acb0648ccb21931b"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/DefenseSeedMessages.h",
+      "path": "src/protocol/defense_seed_messages.h",
+      "sha256": "cc60d3e64f9c516364a0513c83ac22c440b2428b5f23c1172cfff4d4a30c85cf"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/GameEndMessages.cpp",
+      "path": "src/protocol/game_end_messages.cpp",
+      "sha256": "4f9347f2f58452a02ac182f5f604ad71f767d9dd421b71b0fe23d2245d6b462c"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/GameEndMessages.h",
+      "path": "src/protocol/game_end_messages.h",
+      "sha256": "dde764852b0a37b177b6720700bb921e8cd1ea505b9897c8a05e7b3ae54cd2b6"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/GameResultMessages.cpp",
+      "path": "src/protocol/game_result_messages.cpp",
+      "sha256": "c5d35a7c89200ef12181dde9cc243a4dd25683985f0af12c9e1af2b05d6d2855"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/GameResultMessages.h",
+      "path": "src/protocol/game_result_messages.h",
+      "sha256": "b01260b785c7738f82285d31b5babbc0def9f812a811c186cd4dbe0458ff6cf7"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/GameStartMessages.cpp",
+      "path": "src/protocol/game_start_messages.cpp",
+      "sha256": "59e9eb8c67bccd4b683b8d62d7667e07664c12a6722dc644a7056c52e221706f"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/GameStartMessages.h",
+      "path": "src/protocol/game_start_messages.h",
+      "sha256": "44e05267ca681901c0b195d1bd270ad9c31716684daad4e88b3fdd29425d2ef9"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/HealthReportMessages.cpp",
+      "path": "src/protocol/health_report_messages.cpp",
+      "sha256": "1fb0bbeea5c62895698c892a0de9f5655d2713d1e2b24c837130e09d07a32171"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/HealthReportMessages.h",
+      "path": "src/protocol/health_report_messages.h",
+      "sha256": "98fb3f0fef3051164b5363d91af1b6376c88615629a234cb0c9e0722f71e470c"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/InventoryMessages.cpp",
+      "path": "src/protocol/inventory_messages.cpp",
+      "sha256": "e2fdfe05618dd3c06eddc152a145575b11cb93424727dee317c0e0b9ed0e2260"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/InventoryMessages.h",
+      "path": "src/protocol/inventory_messages.h",
+      "sha256": "286377c6588acccf627728c803aa23ad5518448a237140f0da92e9d986288242"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/LambdaPacketCodec.cpp",
+      "path": "src/protocol/lambda_packet_codec.cpp",
+      "sha256": "a010dea1950641aedefbd1ceb7c5895edb13f09b64962a19890798e2825cdacf"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/LambdaPacketCodec.h",
+      "path": "src/protocol/lambda_packet_codec.h",
+      "sha256": "84a9450229b440cc667f8c93f1ee9576c85a29f266361c0240d15a6ebdc5bfda"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/LobbyMessages.cpp",
+      "path": "src/protocol/lobby_messages.cpp",
+      "sha256": "598464fd4b03b02e862512e1f66d5096a537af265a0c7f1bc866bcc56b438caf"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/LobbyMessages.h",
+      "path": "src/protocol/lobby_messages.h",
+      "sha256": "39299b341f3eadc62a698e98051cf22b25df58f96470df70f889eb0cd47439e5"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/LoginMessages.cpp",
+      "path": "src/protocol/login_messages.cpp",
+      "sha256": "13c01face849ed36a9c8abb406416f8fe0509f60bbdade43705644a4a7110263"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/LoginMessages.h",
+      "path": "src/protocol/login_messages.h",
+      "sha256": "48e38f139dcc4c83f9ef76248ca1a4553e5bcb3978b320e6aeab4d24785a9b0f"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/MainMenuMessages.cpp",
+      "path": "src/protocol/main_menu_messages.cpp",
+      "sha256": "19b699346e4f27c12318250bf5c2f987b7e8c5ce7e369d03898e2119f013fda2"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/MainMenuMessages.h",
+      "path": "src/protocol/main_menu_messages.h",
+      "sha256": "0c32b51f8fc0638b4fefccc57e7c437557064ee6870518130baf0bda1eceec31"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/NxPacketCodec.cpp",
+      "path": "src/protocol/nx_packet_codec.cpp",
+      "sha256": "3c12fd183e787593d33d4fa95aee518bdac96f64382363b72eb9610cf145908d"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/NxPacketCodec.h",
+      "path": "src/protocol/nx_packet_codec.h",
+      "sha256": "a2bad34c23dbcd77db7891d4892fad112699dfe36724167d7d603fed1c070f97"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/PacketBuffer.cpp",
+      "path": "src/protocol/packet_buffer.cpp",
+      "sha256": "076353fcee87529a7dd37f1ed5c16aba5b46887672b4672ba82d6a5a9e43afa0"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/PacketBuffer.h",
+      "path": "src/protocol/packet_buffer.h",
+      "sha256": "0ea6d6e4f456410a5856db5001d007633fac93b3c36f080d5c2e639df24a8960"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/PeerDamageMessages.cpp",
+      "path": "src/protocol/peer_damage_messages.cpp",
+      "sha256": "9d4de71148c444ef2a57411917eb6301d17daaf7ae368f93af0bef58e77da099"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/PeerDamageMessages.h",
+      "path": "src/protocol/peer_damage_messages.h",
+      "sha256": "25e1670b7fd0a9eeb901ea8ebacb01846358572a93d016011f7f23b265504416"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/PeerFireMessages.cpp",
+      "path": "src/protocol/peer_fire_messages.cpp",
+      "sha256": "8adfcfa5d9ea0ca3808a222ddaba898dd3cc0b5138eba9054e8070a535100c0e"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/PeerFireMessages.h",
+      "path": "src/protocol/peer_fire_messages.h",
+      "sha256": "c9b21d1de324fb5dd707ebe95f5c081f89e28240ad7aa35477fc6ce457703665"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/PeerKickMessages.cpp",
+      "path": "src/protocol/peer_kick_messages.cpp",
+      "sha256": "df21b845f34e45facabc547655ef3bdf2e3dce600229177223f9666de68a6c39"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/PeerKickMessages.h",
+      "path": "src/protocol/peer_kick_messages.h",
+      "sha256": "0807860bba31903bee81030b209c120ffd7c26406136ecfe6a6d64d29cd83036"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/PeerLifeMessages.cpp",
+      "path": "src/protocol/peer_life_messages.cpp",
+      "sha256": "0da2b6c7d87bff9eaa7f54d4da64f3d3a910a42e560c64f220e101f3717c1b04"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/PeerLifeMessages.h",
+      "path": "src/protocol/peer_life_messages.h",
+      "sha256": "6d9dfcbe36adcd3cfdf4aede343d5482aa42b6147e79f04c3a58e4f2d356e554"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/PeerMessages.cpp",
+      "path": "src/protocol/peer_messages.cpp",
+      "sha256": "75206b2e509a1dccbef4cf4061853bf3ad3aae26b6a5043ef5f499375646ff53"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/PeerMessages.h",
+      "path": "src/protocol/peer_messages.h",
+      "sha256": "42645264a01a0fcc8173c92feecf21443a7256e4fa23c36dd812acf498d4e721"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/PeerNearMessages.cpp",
+      "path": "src/protocol/peer_near_messages.cpp",
+      "sha256": "f8985b92258bf1b9abe5d1ea5b495f752abac778ef93c56536b1844540b1d727"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/PeerNearMessages.h",
+      "path": "src/protocol/peer_near_messages.h",
+      "sha256": "596b3de9bc21916ee782a9f80f0df082616e61beac8fb0d1d609b6184944f570"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/PlazaMessages.cpp",
+      "path": "src/protocol/plaza_messages.cpp",
+      "sha256": "74d7625b60d457d67edaf1495c0e4cfc23749480295d4a28e924719f8261c284"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/PlazaMessages.h",
+      "path": "src/protocol/plaza_messages.h",
+      "sha256": "abff8a6ba7b5ae9763640af54efc05eb20d95faca5aef00237762f0fd29842eb"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/RelayMessages.cpp",
+      "path": "src/protocol/relay_messages.cpp",
+      "sha256": "d48d9d9f0e941caa56186257b3caccc3dbea21bf7f760bd73331a4f681d16d1e"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/RelayMessages.h",
+      "path": "src/protocol/relay_messages.h",
+      "sha256": "837b2cca70bfb076548d82c3df9189798c518e4ace43e3208aae837ddf0a9dba"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/RespawnMessages.cpp",
+      "path": "src/protocol/respawn_messages.cpp",
+      "sha256": "1113063153c2ffbcd8f28979a26967cbc1dbaa26758c31164af73f88e4dc5604"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/RespawnMessages.h",
+      "path": "src/protocol/respawn_messages.h",
+      "sha256": "ea819ccb556fb2b2dc0365a2429800c98500e82036bc60bbe50a6904b3a08db0"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/RoomMessages.cpp",
+      "path": "src/protocol/room_messages.cpp",
+      "sha256": "ecca30f2489c4c097169bbf5aacef41ebb17be7faa903fdc0ea19cda053c30c1"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/RoomMessages.h",
+      "path": "src/protocol/room_messages.h",
+      "sha256": "58c2b7f24ba8f74b66ec14a2b94aa3a15a72ef93c204378feef923ab044fd620"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/ScoreMessages.cpp",
+      "path": "src/protocol/score_messages.cpp",
+      "sha256": "a050f69b2dd19d01576cfbbf0e9a6349151b578127b043aebeb576e1c4750b9b"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/ScoreMessages.h",
+      "path": "src/protocol/score_messages.h",
+      "sha256": "ae938a3c68cc33377622895b2cf3e08116eb2b2aa811e0bddbe92d4124cc6644"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/SessionMember.cpp",
+      "path": "src/protocol/session_member.cpp",
+      "sha256": "8e5d195fc5ac8c626763b34776a5d92b97af26fb04efb1109884b993215706cb"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/SessionMember.h",
+      "path": "src/protocol/session_member.h",
+      "sha256": "3b2af7601983384064319718f75d5043ef6566e92e941f4bd023a28dc4168a43"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/SessionPingMessages.cpp",
+      "path": "src/protocol/session_ping_messages.cpp",
+      "sha256": "e24f0450c3c92a7f78b745c5f45c563a63376c745b70250c8b02690bd6767292"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/SessionPingMessages.h",
+      "path": "src/protocol/session_ping_messages.h",
+      "sha256": "01aef33e6582a61c42e4a4b98ea6048d668122f7b9eb87f2da85ae6a44465686"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/SessionSetting.cpp",
+      "path": "src/protocol/session_setting.cpp",
+      "sha256": "bbe78b2ae218345c7bc9aa413c59444f4803dac021d9e7b351f256a9f60ecbe6"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/SessionSetting.h",
+      "path": "src/protocol/session_setting.h",
+      "sha256": "70a623ccf0be4eba5c4c548c6c6712af44e5c26f2b0658fe6c08de8e10f17317"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/ShopMessages.cpp",
+      "path": "src/protocol/shop_messages.cpp",
+      "sha256": "e485ef39a996b36beb72e59038dd1e4005abef800092ec3e98a8e1be908ffc3c"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/ShopMessages.h",
+      "path": "src/protocol/shop_messages.h",
+      "sha256": "eb5405cc46057300d47c3aa9c535b401391629df22361f132253fbcc21911d68"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/UserStatMessages.cpp",
+      "path": "src/protocol/user_stat_messages.cpp",
+      "sha256": "d6c495c3a23dd549ecfee8f5c571d75de0378dab03e08971141018319a0aad94"
+    },
+    {
+      "original_path": "Source/ServerCore/Protocol/UserStatMessages.h",
+      "path": "src/protocol/user_stat_messages.h",
+      "sha256": "e8e3140890e7f05d9e0a76fee34bf3b00ac92e98214d16908a2b444d55571059"
+    },
+    {
+      "original_path": "Source/ServerCore/Relay/RelayDirectory.cpp",
+      "path": "src/relay/relay_directory.cpp",
+      "sha256": "69880cdca30cf226b212bf81cf293b7a8262259e20c64f358f13dc61b12197ae"
+    },
+    {
+      "original_path": "Source/ServerCore/Relay/RelayDirectory.h",
+      "path": "src/relay/relay_directory.h",
+      "sha256": "5d6dc6860c21c197dc17d85bd4782acc39de39ac4030195afeb0285ed0edd0ac"
+    },
+    {
+      "original_path": "Source/ServerCore/Relay/RelayListener.cpp",
+      "path": "src/relay/relay_listener.cpp",
+      "sha256": "820e9e8e43c5ec752f115047b944480952e61317880eeaeba453f97d3fd8e877"
+    },
+    {
+      "original_path": "Source/ServerCore/Relay/RelayListener.h",
+      "path": "src/relay/relay_listener.h",
+      "sha256": "bc055ce7a754515255a8efad66903bf36fb9f5f06f07d8d6c2b00f8d0e7d9200"
+    },
+    {
+      "original_path": "Source/ServerCore/Shop/ShopRepository.cpp",
+      "path": "src/features/shop/shop_repository.cpp",
+      "sha256": "da584818704ac7d3421f44e8b1f788a3c632f9b923cbc242e376275d0eba6f87"
+    },
+    {
+      "original_path": "Source/ServerCore/Shop/ShopRepository.h",
+      "path": "src/features/shop/shop_repository.h",
+      "sha256": "a36927fde90a05c60b4fba971421065520cfe57ad44477c4f16503853492f525"
+    }
+  ],
+  "migrations": [
+    {
+      "original_path": "Database/Migrations/V0001__InitializeSchema.sql",
+      "path": "database/migrations/initialize_schema.sql",
+      "sha256": "8c7026b0ac516523d08420d35c7b6d7de3aa074e66826aa7180befe4a3282279"
+    },
+    {
+      "original_path": "Database/Migrations/V0002__CreateAccounts.sql",
+      "path": "database/migrations/create_accounts.sql",
+      "sha256": "ed12ab14e30e5f0df6d8ecaee5759f4c044a18bccf546f23f2d387eceb632009"
+    },
+    {
+      "original_path": "Database/Migrations/V0003__CreateCharacters.sql",
+      "path": "database/migrations/create_characters.sql",
+      "sha256": "38c3c322c27d6d3b9d3b16cc93d8710994e39141bbb5106ca0657fb3d0061f9a"
+    },
+    {
+      "original_path": "Database/Migrations/V0004__CreateInventory.sql",
+      "path": "database/migrations/create_inventory.sql",
+      "sha256": "e1f38167800ec51ea0434d98dccf1884782cf1149fca6fdb3c7ff5f036a645a6"
+    },
+    {
+      "original_path": "Database/Migrations/V0005__CreateCharacterStats.sql",
+      "path": "database/migrations/create_character_stats.sql",
+      "sha256": "58d0cd5221341bc1af9e3d0a7c5b047e116858481b925ed6ee3a223461fb0c61"
+    },
+    {
+      "original_path": "Database/Migrations/V0006__CreateShop.sql",
+      "path": "database/migrations/create_shop.sql",
+      "sha256": "2579244f998d8daa430ed2d91336371ea19e7a7391d82b7ea32ac9e9eb6ce444"
+    },
+    {
+      "original_path": "Database/Migrations/V0007__CreateGameResults.sql",
+      "path": "database/migrations/create_game_results.sql",
+      "sha256": "4540655ff20a3039c788acbad50810aa6eadbb0fd315cd12a68dd79bd32bb7f9"
+    },
+    {
+      "original_path": "Database/Migrations/V0008__ExpandShopCosmetics.sql",
+      "path": "database/migrations/expand_shop_cosmetics.sql",
+      "sha256": "d9239cc577f29cf98cb69352d71eb3c5e3524ee2b240dbb8701dd1fdeb5cb9a6"
+    },
+    {
+      "original_path": "Database/Migrations/V0009__CreateShopCharacters.sql",
+      "path": "database/migrations/create_shop_characters.sql",
+      "sha256": "5837e19b3f35510c28ecae7f966cca267609715d4b5c14d7f21e487e5f225d24"
+    },
+    {
+      "original_path": "Database/Migrations/V0010__ExpandShopEquipment.sql",
+      "path": "database/migrations/expand_shop_equipment.sql",
+      "sha256": "1600715c41a06772caa2cae79e4d59eb5ec36831211a844efe890f3354e04544"
+    },
+    {
+      "original_path": "Database/Migrations/V0011__CreateRespawnEquipment.sql",
+      "path": "database/migrations/create_respawn_equipment.sql",
+      "sha256": "6ab6b8df45590cc9382b1349c72d7595a0145c9581e3abcd849dc00ab2bc8e6e"
+    },
+    {
+      "original_path": "Database/Migrations/V0012__CreateResultAwards.sql",
+      "path": "database/migrations/create_result_awards.sql",
+      "sha256": "b13b68cf6f03084a190eb2aed406a530c55e2a37b160cd89c1bf1a15b13d7885"
+    },
+    {
+      "original_path": "Database/Migrations/V0013__CreateWeaponPresets.sql",
+      "path": "database/migrations/create_weapon_presets.sql",
+      "sha256": "67cbacdee9fc870a9179af37c208429f59281d421050a6ea09313ae4052d0553"
+    },
+    {
+      "original_path": "Database/Migrations/V0014__ExpandShopOther.sql",
+      "path": "database/migrations/expand_shop_other.sql",
+      "sha256": "ec05f163300d72cbcf00f62407ff42e6ad3f3dee19a8fbc9e53085b8c364f7d4"
+    }
+  ],
+  "path_aliases": {
+    "config/game_characters.json": "Config/GameCharacters.json",
+    "config/game_defense.json": "Config/GameDefense.json",
+    "config/game_maps.json": "Config/GameMaps.json",
+    "config/game_respawn.json": "Config/GameRespawn.json",
+    "config/game_weapons.json": "Config/GameWeapons.json",
+    "config/launcher.json": "Config/Launcher.json",
+    "config/progression.json": "Config/Progression.json",
+    "config/server.json": "Config/Server.json",
+    "config/authentication_certificate.pem": "Config/AuthenticationCertificate.pem",
+    "config/authentication_private_key.pem": "Config/AuthenticationPrivateKey.pem"
+  },
+  "config_files": [
+    {
+      "original_path": "Config/GameCharacters.json",
+      "path": "config/game_characters.json",
+      "sha256": "5647a82127f00dcfc7f7891e1f89cace41aeacf7e0ef93d082d00e29b5aef391"
+    },
+    {
+      "original_path": "Config/GameDefense.json",
+      "path": "config/game_defense.json",
+      "sha256": "2f3f7110121218b496467f7db44843d84dac5f2f1bf520b8973b0b3e60857077"
+    },
+    {
+      "original_path": "Config/GameMaps.json",
+      "path": "config/game_maps.json",
+      "sha256": "1ca0abc99224f212915d771f1d7d65dd14dd5f29c13b5041220590716aba2578"
+    },
+    {
+      "original_path": "Config/GameRespawn.json",
+      "path": "config/game_respawn.json",
+      "sha256": "f5be95a3239c44daf500682a4d01ba2a034b2418bea348b53b55693f8b436fba"
+    },
+    {
+      "original_path": "Config/GameWeapons.json",
+      "path": "config/game_weapons.json",
+      "sha256": "06b8cdc1de6885c2dedd33bb3ba63086d51c89d05547a9c3d27625c0e7af7e13"
+    },
+    {
+      "original_path": "Config/Launcher.json",
+      "path": "config/launcher.json",
+      "sha256": "f435541e383821ce0ed95e6585953ef0fdfef6ab7488223dc3e5b60f725aa344"
+    },
+    {
+      "original_path": "Config/Progression.json",
+      "path": "config/progression.json",
+      "sha256": "294e0670385b4d166a4968a6d8a332827fdeb1094c7cc77702a3fde3eaadb0cf"
+    },
+    {
+      "original_path": "Config/Server.json",
+      "path": "config/server.json",
+      "sha256": "27007d08b455ceae496dce5b3534b69476ea55748c399ee6d50f2497484cfb20"
+    }
+  ]
+}

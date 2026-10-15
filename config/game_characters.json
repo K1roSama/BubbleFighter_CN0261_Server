@@ -1,0 +1,111 @@
+{
+  "commonHealth": 100.0,
+  "characters": [
+    {
+      "id": 1,
+      "healthDelta": 10.0
+    },
+    {
+      "id": 2,
+      "healthDelta": 10.0
+    },
+    {
+      "id": 3,
+      "healthDelta": 10.0
+    },
+    {
+      "id": 4,
+      "healthDelta": 26.0
+    },
+    {
+      "id": 5,
+      "healthDelta": -10.0
+    },
+    {
+      "id": 6,
+      "healthDelta": 10.0
+    },
+    {
+      "id": 8,
+      "healthDelta": 5.0
+    },
+    {
+      "id": 10,
+      "healthDelta": 10.0
+    },
+    {
+      "id": 11,
+      "healthDelta": 10.0
+    },
+    {
+      "id": 12,
+      "healthDelta": 10.0
+    },
+    {
+      "id": 14,
+      "healthDelta": 10.0
+    }
+  ],
+  "channels": [
+    {
+      "id": 10,
+      "healthDelta": 0.0
+    },
+    {
+      "id": 20,
+      "healthDelta": 0.0
+    },
+    {
+      "id": 30,
+      "healthDelta": 0.0
+    },
+    {
+      "id": 40,
+      "healthDelta": 0.0
+    },
+    {
+      "id": 60,
+      "healthDelta": 0.0
+    },
+    {
+      "id": 70,
+      "healthDelta": 0.0
+    },
+    {
+      "id": 80,
+      "healthDelta": 0.0
+    },
+    {
+      "id": 91,
+      "healthDelta": 0.0
+    },
+    {
+      "id": 1000,
+      "healthDelta": 0.0
+    },
+    {
+      "id": 2000,
+      "healthDelta": 0.0
+    },
+    {
+      "id": 3000,
+      "healthDelta": 0.0
+    },
+    {
+      "id": 4000,
+      "healthDelta": 0.0
+    }
+  ],
+  "modes": [
+    {
+      "id": 1,
+      "resourceId": 2,
+      "healthDelta": 0.0
+    },
+    {
+      "id": 3,
+      "resourceId": 2,
+      "healthDelta": 0.0
+    }
+  ]
+}

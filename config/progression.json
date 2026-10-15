@@ -1,0 +1,14 @@
+{
+  "version": "custom-v2",
+  "levelExperience": [0, 100, 300, 600, 1000, 1500, 2100, 2800, 3600, 4500],
+  "rewards": {
+    "win": {"experience": 100, "lucci": 150},
+    "draw": {"experience": 75, "lucci": 100},
+    "loss": {"experience": 50, "lucci": 75}
+  },
+  "resultAwards": {
+    "scoreWeights": {"bubble": 2, "pang": 3, "rescue": 2},
+    "gradeMinimumScores": [0, 2, 5, 10, 20, 35, 50, 75, 100],
+    "medalMinimumCounts": {"bubble": [3, 10], "pang": [3, 10], "rescue": [3, 10]}
+  }
+}

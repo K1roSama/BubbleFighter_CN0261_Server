@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectRoot>$([MSBuild]::NormalizeDirectory('$(MSBuildThisFileDirectory)..'))</ProjectRoot>
+    <OutDir>$(ProjectRoot)Artifacts\Bin\$(Platform)\$(Configuration)\</OutDir>
+    <IntDir>$(ProjectRoot)Artifacts\Obj\$(ProjectName)\$(Platform)\$(Configuration)\</IntDir>
+    <VcpkgRoot Condition="'$(VcpkgRoot)' == '' and '$(VCPKG_ROOT)' != ''">$(VCPKG_ROOT)\</VcpkgRoot>
+    <VcpkgRoot Condition="'$(VcpkgRoot)' == ''">$(VSInstallDir)VC\vcpkg\</VcpkgRoot>
+    <VcpkgEnabled>true</VcpkgEnabled>
+    <VcpkgEnableManifest>true</VcpkgEnableManifest>
+    <VcpkgManifestRoot>$(ProjectRoot)</VcpkgManifestRoot>
+    <VcpkgInstalledDir>$(ProjectRoot)Artifacts\Dependencies\</VcpkgInstalledDir>
+    <VcpkgTriplet>x64-windows</VcpkgTriplet>
+    <DependencyBuildRoot Condition="'$(DependencyBuildRoot)' == ''">$(TEMP)\BubbleFighterCn0261</DependencyBuildRoot>
+    <VcpkgAdditionalInstallOptions>--x-buildtrees-root="$(DependencyBuildRoot)\Buildtrees" --x-packages-root="$(DependencyBuildRoot)\Packages"</VcpkgAdditionalInstallOptions>
+    <LocalDebuggerWorkingDirectory>$(ProjectRoot)</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <Import Project="$(VcpkgRoot)\scripts\buildsystems\msbuild\vcpkg.props" Condition="Exists('$(VcpkgRoot)\scripts\buildsystems\msbuild\vcpkg.props')" />
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <TreatWarningAsError>true</TreatWarningAsError>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+      <ConformanceMode>true</ConformanceMode>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <AdditionalOptions>/utf-8 /external:anglebrackets %(AdditionalOptions)</AdditionalOptions>
+      <ExternalWarningLevel>TurnOffAllWarnings</ExternalWarningLevel>
+      <AdditionalIncludeDirectories>$(ProjectRoot)src;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32_LEAN_AND_MEAN;NOMINMAX;_WIN32_WINNT=0x0A00;BOOST_ALL_DYN_LINK;SPDLOG_FMT_EXTERNAL;SPDLOG_WCHAR_FILENAMES;FMT_SHARED;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary Condition="'$(Configuration)' == 'Debug'">MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeLibrary Condition="'$(Configuration)' == 'Release'">MultiThreadedDLL</RuntimeLibrary>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <Optimization Condition="'$(Configuration)' == 'Debug'">Disabled</Optimization>
+      <Optimization Condition="'$(Configuration)' == 'Release'">MaxSpeed</Optimization>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>ws2_32.lib;crypt32.lib;libssl.lib;libcrypto.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies Condition="'$(Configuration)' == 'Debug'">fmtd.lib;ws2_32.lib;crypt32.lib;libssl.lib;libcrypto.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies Condition="'$(Configuration)' == 'Release'">fmt.lib;ws2_32.lib;crypt32.lib;libssl.lib;libcrypto.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <Target Name="ValidateDependencies" BeforeTargets="PrepareForBuild" Condition="!Exists('$(VcpkgRoot)\scripts\buildsystems\msbuild\vcpkg.props')">
+    <Error Text="Set VCPKG_ROOT to a vcpkg installation, or install the Visual Studio vcpkg component." />
+  </Target>
+  <Target Name="DeployRuntimeDependencies" AfterTargets="Build" Condition="'$(ConfigurationType)' == 'Application' and Exists('$(TargetPath)')">
+    <PropertyGroup>
+      <RuntimeDependencyDirectory>$(VcpkgInstalledDir)$(VcpkgTriplet)\bin</RuntimeDependencyDirectory>
+      <RuntimeDependencyDirectory Condition="'$(Configuration)' == 'Debug'">$(VcpkgInstalledDir)$(VcpkgTriplet)\debug\bin</RuntimeDependencyDirectory>
+    </PropertyGroup>
+    <!-- Run after incremental builds too, so a missing runtime DLL is restored even when linking is skipped. -->
+    <Exec Command="&quot;$(VcpkgRoot)\vcpkg.exe&quot; z-applocal --target-binary=&quot;$(TargetPath)&quot; --installed-bin-dir=&quot;$(RuntimeDependencyDirectory)&quot;" UseCommandProcessor="false" UseUtf8Encoding="Always" StdOutEncoding="utf-8" StdErrEncoding="utf-8" />
+  </Target>
+</Project>

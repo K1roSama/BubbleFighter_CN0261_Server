@@ -1,0 +1,90 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "durationMilliseconds": 7000
+    },
+    {
+      "id": 2,
+      "durationMilliseconds": 7000
+    },
+    {
+      "id": 3,
+      "durationMilliseconds": 7000
+    },
+    {
+      "id": 4,
+      "durationMilliseconds": 7000
+    },
+    {
+      "id": 5,
+      "durationMilliseconds": 7000
+    },
+    {
+      "id": 6,
+      "durationMilliseconds": 7000
+    },
+    {
+      "id": 8,
+      "durationMilliseconds": 7000
+    },
+    {
+      "id": 10,
+      "durationMilliseconds": 7000
+    },
+    {
+      "id": 11,
+      "durationMilliseconds": 7000
+    },
+    {
+      "id": 12,
+      "durationMilliseconds": 7000
+    },
+    {
+      "id": 14,
+      "durationMilliseconds": 7000
+    }
+  ],
+  "items": [
+    {
+      "id": 100142,
+      "reductionMilliseconds": 2200
+    },
+    {
+      "id": 100241,
+      "reductionMilliseconds": 3800
+    },
+    {
+      "id": 100593,
+      "reductionMilliseconds": 3800
+    },
+    {
+      "id": 100594,
+      "reductionMilliseconds": 3400
+    },
+    {
+      "id": 100595,
+      "reductionMilliseconds": 3000
+    },
+    {
+      "id": 100678,
+      "reductionMilliseconds": 3800
+    },
+    {
+      "id": 100990,
+      "reductionMilliseconds": 3800
+    },
+    {
+      "id": 101092,
+      "reductionMilliseconds": 3800
+    },
+    {
+      "id": 110280,
+      "reductionMilliseconds": 3800
+    },
+    {
+      "id": 190022,
+      "reductionMilliseconds": 3900
+    }
+  ]
+}

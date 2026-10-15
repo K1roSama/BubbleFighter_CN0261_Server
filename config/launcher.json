@@ -1,0 +1,7 @@
+{
+  "authenticationHost": "localhost",
+  "authenticationPort": 26102,
+  "certificateFile": "config/authentication_certificate.pem",
+  "clientDirectory": "..",
+  "instance": "A"
+}

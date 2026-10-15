@@ -1,0 +1,6013 @@
+{
+  "items": [
+    {
+      "itemId": 100004,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05000000074505806
+        }
+      ]
+    },
+    {
+      "itemId": 100007,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05000000074505806
+        }
+      ]
+    },
+    {
+      "itemId": 100035,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.02500000037252903
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 100037,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.02500000037252903
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 100047,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.02500000037252903
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 100048,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.02500000037252903
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03500000014901161
+        }
+      ]
+    },
+    {
+      "itemId": 100057,
+      "modifiers": [
+        {
+          "attribute": "backReduction",
+          "ratio": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "itemId": 100072,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100073,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100074,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.02500000037252903
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 100085,
+      "modifiers": [
+        {
+          "attribute": "criticalCancelRatio",
+          "ratio": 0.6499999761581421
+        }
+      ]
+    },
+    {
+      "itemId": 100096,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.023000000044703484
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100101,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05000000074505806
+        }
+      ]
+    },
+    {
+      "itemId": 100105,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 100106,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.023000000044703484
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100114,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100115,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100117,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03500000014901161
+        }
+      ]
+    },
+    {
+      "itemId": 100118,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03500000014901161
+        }
+      ]
+    },
+    {
+      "itemId": 100121,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.02500000037252903
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100122,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.02500000037252903
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100125,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.017000000923871994
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.019999999552965164
+        }
+      ]
+    },
+    {
+      "itemId": 100126,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.017000000923871994
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.019999999552965164
+        }
+      ]
+    },
+    {
+      "itemId": 100128,
+      "modifiers": [
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100129,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.02500000037252903
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.02500000037252903
+        }
+      ]
+    },
+    {
+      "itemId": 100130,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.02500000037252903
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.02500000037252903
+        }
+      ]
+    },
+    {
+      "itemId": 100133,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03500000014901161
+        }
+      ]
+    },
+    {
+      "itemId": 100134,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03500000014901161
+        }
+      ]
+    },
+    {
+      "itemId": 100137,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100138,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100145,
+      "modifiers": [
+        {
+          "attribute": "wallReduction",
+          "ratio": 0.10000000149011612
+        }
+      ]
+    },
+    {
+      "itemId": 100147,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.020999999716877937
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.02800000086426735
+        }
+      ]
+    },
+    {
+      "itemId": 100148,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.014999999664723873
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.017999999225139618
+        }
+      ]
+    },
+    {
+      "itemId": 100149,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.014999999664723873
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.017999999225139618
+        }
+      ]
+    },
+    {
+      "itemId": 100152,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "itemId": 100153,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "itemId": 100160,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "itemId": 100161,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.02500000037252903
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100162,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.02500000037252903
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100173,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.03999999910593033
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07999999821186066
+        }
+      ]
+    },
+    {
+      "itemId": 100174,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 100175,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 100203,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100204,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.009999999776482582
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100205,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.009999999776482582
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100208,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03500000014901161
+        }
+      ]
+    },
+    {
+      "itemId": 100209,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.014999999664723873
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100210,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.014999999664723873
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100213,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 100214,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.014999999664723873
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03500000014901161
+        }
+      ]
+    },
+    {
+      "itemId": 100215,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.014999999664723873
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03500000014901161
+        }
+      ]
+    },
+    {
+      "itemId": 100227,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 100228,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03500000014901161
+        }
+      ]
+    },
+    {
+      "itemId": 100229,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03500000014901161
+        }
+      ]
+    },
+    {
+      "itemId": 100240,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 100245,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07500000298023224
+        }
+      ]
+    },
+    {
+      "itemId": 100246,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.009999999776482582
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03500000014901161
+        }
+      ]
+    },
+    {
+      "itemId": 100247,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.009999999776482582
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03500000014901161
+        }
+      ]
+    },
+    {
+      "itemId": 100260,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 100261,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03500000014901161
+        }
+      ]
+    },
+    {
+      "itemId": 100262,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03500000014901161
+        }
+      ]
+    },
+    {
+      "itemId": 100265,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.03999999910593033
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07999999821186066
+        }
+      ]
+    },
+    {
+      "itemId": 100266,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 100267,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 100290,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100291,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100292,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100320,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100321,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100322,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100325,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.03999999910593033
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07999999821186066
+        }
+      ]
+    },
+    {
+      "itemId": 100326,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 100327,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 100330,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.03999999910593033
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07999999821186066
+        }
+      ]
+    },
+    {
+      "itemId": 100331,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 100332,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 100358,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100359,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100360,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100363,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100364,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100365,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100377,
+      "modifiers": [
+        {
+          "attribute": "backReduction",
+          "ratio": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "itemId": 100378,
+      "modifiers": [
+        {
+          "attribute": "backReduction",
+          "ratio": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "itemId": 100380,
+      "modifiers": [
+        {
+          "attribute": "backReduction",
+          "ratio": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "itemId": 100413,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10000000149011612
+        }
+      ]
+    },
+    {
+      "itemId": 100414,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100415,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100418,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10000000149011612
+        }
+      ]
+    },
+    {
+      "itemId": 100419,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100420,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100426,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100427,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100428,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100433,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10000000149011612
+        }
+      ]
+    },
+    {
+      "itemId": 100434,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100435,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100438,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.017000000923871994
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.019999999552965164
+        }
+      ]
+    },
+    {
+      "itemId": 100439,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.017000000923871994
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.019999999552965164
+        }
+      ]
+    },
+    {
+      "itemId": 100444,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10000000149011612
+        }
+      ]
+    },
+    {
+      "itemId": 100445,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100446,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100449,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10000000149011612
+        }
+      ]
+    },
+    {
+      "itemId": 100450,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100451,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100475,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10000000149011612
+        }
+      ]
+    },
+    {
+      "itemId": 100476,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100477,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100501,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10000000149011612
+        }
+      ]
+    },
+    {
+      "itemId": 100502,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100503,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100510,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10000000149011612
+        }
+      ]
+    },
+    {
+      "itemId": 100511,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100512,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100515,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10000000149011612
+        }
+      ]
+    },
+    {
+      "itemId": 100516,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100517,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100520,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100521,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.03999999910593033
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100530,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10000000149011612
+        }
+      ]
+    },
+    {
+      "itemId": 100531,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100532,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100541,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10000000149011612
+        }
+      ]
+    },
+    {
+      "itemId": 100542,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100543,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100553,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100554,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100555,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100566,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100567,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100568,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100571,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100572,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100573,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100579,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100580,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100581,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100584,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100585,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100586,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100589,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100590,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100606,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100607,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100608,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100611,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.07999999821186066
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "itemId": 100612,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100613,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100614,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100616,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100617,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100618,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100630,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100631,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100632,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100635,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100636,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100637,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100645,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100646,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100647,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100658,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100659,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100660,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100663,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10000000149011612
+        }
+      ]
+    },
+    {
+      "itemId": 100664,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100665,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 100680,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100681,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100682,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100685,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100686,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100687,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100690,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100691,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100692,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100702,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100703,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100704,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100707,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100708,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100709,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100717,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100718,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100719,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100722,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100723,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100724,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100729,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100730,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100731,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100734,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100735,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100736,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100742,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100743,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100744,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100747,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100748,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100749,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100752,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100753,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100754,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100757,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100758,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100759,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100762,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100763,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05999999865889549
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.14000000059604645
+        }
+      ]
+    },
+    {
+      "itemId": 100764,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100765,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100766,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100769,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100770,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100771,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100785,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100786,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100787,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100790,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100791,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100792,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100795,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100796,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100797,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100800,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100801,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100802,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100805,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100806,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100807,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100810,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100811,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100812,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100825,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100826,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        }
+      ]
+    },
+    {
+      "itemId": 100827,
+      "modifiers": [
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100830,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100831,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100832,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100835,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100836,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100837,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100840,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100841,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100842,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100847,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100848,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100849,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100852,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100853,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100854,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100857,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100858,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100859,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100870,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.07999999821186066
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "itemId": 100871,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100872,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100884,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100885,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100886,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100889,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100890,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100891,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100894,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100895,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100896,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100900,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100901,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100902,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100918,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100919,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100920,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100941,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100942,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100943,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100946,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100947,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100948,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100956,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100957,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100958,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100966,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100967,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100968,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100971,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100972,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100973,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100979,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100980,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100981,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100987,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100988,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 100991,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100992,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100993,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100996,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 100997,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 100998,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101007,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101008,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101009,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101012,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101013,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101014,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101017,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101018,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101019,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101023,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101024,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101025,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101029,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101030,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101031,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101036,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101037,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 101038,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 101052,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101053,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101054,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101070,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101071,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 101072,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 101076,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101077,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101078,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101087,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101088,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101089,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101095,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101096,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101097,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101101,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101102,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101103,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101106,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101107,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101108,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101156,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101157,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101158,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101186,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101187,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101188,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101196,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101197,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101198,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101201,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101202,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101203,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101214,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101215,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101216,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101235,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101236,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101237,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101265,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101266,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 101267,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 101306,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101307,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 101308,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 101311,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.07999999821186066
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "itemId": 101312,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101313,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101321,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101322,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101323,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101331,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101332,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101333,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101345,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101346,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101347,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101384,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101385,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101386,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101389,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101390,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101391,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101417,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101418,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101419,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101480,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101481,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101482,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101510,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101511,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05999999865889549
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.14000000059604645
+        }
+      ]
+    },
+    {
+      "itemId": 101553,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 101554,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 101555,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 110072,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05000000074505806
+        }
+      ]
+    },
+    {
+      "itemId": 110073,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05000000074505806
+        }
+      ]
+    },
+    {
+      "itemId": 110075,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 110076,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 110077,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 110080,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 110081,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 110082,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 110085,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 110086,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 110087,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 110090,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 110091,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 110092,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 110096,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        }
+      ]
+    },
+    {
+      "itemId": 110097,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 110098,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 110101,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05000000074505806
+        }
+      ]
+    },
+    {
+      "itemId": 110129,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.02500000037252903
+        }
+      ]
+    },
+    {
+      "itemId": 110130,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.02500000037252903
+        }
+      ]
+    },
+    {
+      "itemId": 110232,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 110233,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03500000014901161
+        }
+      ]
+    },
+    {
+      "itemId": 110234,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03500000014901161
+        }
+      ]
+    },
+    {
+      "itemId": 119999,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 120101,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 120129,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.014999999664723873
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.019999999552965164
+        }
+      ]
+    },
+    {
+      "itemId": 120130,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.014999999664723873
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.019999999552965164
+        }
+      ]
+    },
+    {
+      "itemId": 120156,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.03999999910593033
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07999999821186066
+        }
+      ]
+    },
+    {
+      "itemId": 120157,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 120158,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 120232,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.023000000044703484
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 120233,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.017000000923871994
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.019999999552965164
+        }
+      ]
+    },
+    {
+      "itemId": 120234,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.017000000923871994
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.019999999552965164
+        }
+      ]
+    },
+    {
+      "itemId": 120237,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 120238,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 120239,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.029999999329447746
+        }
+      ]
+    },
+    {
+      "itemId": 120521,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.03999999910593033
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07999999821186066
+        }
+      ]
+    },
+    {
+      "itemId": 120522,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 120523,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 190016,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.03999999910593033
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07999999821186066
+        }
+      ]
+    },
+    {
+      "itemId": 190017,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.019999999552965164
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.03999999910593033
+        }
+      ]
+    },
+    {
+      "itemId": 190030,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10000000149011612
+        }
+      ]
+    },
+    {
+      "itemId": 190031,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 190032,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.05999999865889549
+        }
+      ]
+    },
+    {
+      "itemId": 190040,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10000000149011612
+        }
+      ]
+    },
+    {
+      "itemId": 190041,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05999999865889549
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "itemId": 190054,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 190055,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 190056,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 190057,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 190058,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 190059,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 190060,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 190061,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 190062,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 190063,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 190064,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 190065,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    },
+    {
+      "itemId": 190076,
+      "modifiers": [
+        {
+          "attribute": "minimum",
+          "ratio": 0.05000000074505806
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.10999999940395355
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        },
+        {
+          "attribute": "minimum",
+          "ratio": 0.029999999329447746
+        },
+        {
+          "attribute": "maximum",
+          "ratio": 0.07000000029802322
+        }
+      ]
+    }
+  ],
+  "unsupportedItems": [
+    100401,
+    100402,
+    100403
+  ]
+}

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64"><Configuration>Debug</Configuration><Platform>x64</Platform></ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64"><Configuration>Release</Configuration><Platform>x64</Platform></ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{690C6629-30E1-4650-B5BB-07BB86BB269D}</ProjectGuid>
+    <RootNamespace>ServerCore</RootNamespace>
+    <ProjectName>ServerCore</ProjectName>
+    <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>
+    <VcpkgRoot Condition="'$(VCPKG_ROOT)' != ''">$(VCPKG_ROOT)\</VcpkgRoot>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <PlatformToolset>v143</PlatformToolset>
+    <UseDebugLibraries Condition="'$(Configuration)' == 'Debug'">true</UseDebugLibraries>
+    <UseDebugLibraries Condition="'$(Configuration)' == 'Release'">false</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <Import Project="common.props" />
+
+
+
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <Import Project="$(VcpkgRoot)\scripts\buildsystems\msbuild\vcpkg.targets" Condition="Exists('$(VcpkgRoot)\scripts\buildsystems\msbuild\vcpkg.targets')" />
+  <!-- BEGIN GENERATED SOURCES -->
+  <ItemGroup>
+    <ClCompile Include="..\src\application\account_command.cpp" />
+    <ClInclude Include="..\src\application\account_command.h" />
+    <ClCompile Include="..\src\application\server_application.cpp" />
+    <ClInclude Include="..\src\application\server_application.h" />
+    <ClCompile Include="..\src\configuration\server_config.cpp" />
+    <ClInclude Include="..\src\configuration\server_config.h" />
+    <ClCompile Include="..\src\features\authentication\account_repository.cpp" />
+    <ClInclude Include="..\src\features\authentication\account_repository.h" />
+    <ClCompile Include="..\src\features\authentication\authentication_listener.cpp" />
+    <ClInclude Include="..\src\features\authentication\authentication_listener.h" />
+    <ClCompile Include="..\src\features\authentication\password_credentials.cpp" />
+    <ClInclude Include="..\src\features\authentication\password_credentials.h" />
+    <ClCompile Include="..\src\features\characters\character_repository.cpp" />
+    <ClInclude Include="..\src\features\characters\character_repository.h" />
+    <ClCompile Include="..\src\features\inventory\equipped_character.cpp" />
+    <ClInclude Include="..\src\features\inventory\equipped_character.h" />
+    <ClCompile Include="..\src\features\inventory\inventory_expiry.cpp" />
+    <ClInclude Include="..\src\features\inventory\inventory_expiry.h" />
+    <ClCompile Include="..\src\features\inventory\inventory_repository.cpp" />
+    <ClInclude Include="..\src\features\inventory\inventory_repository.h" />
+    <ClCompile Include="..\src\features\progression\progression_policy.cpp" />
+    <ClInclude Include="..\src\features\progression\progression_policy.h" />
+    <ClCompile Include="..\src\features\shop\shop_repository.cpp" />
+    <ClInclude Include="..\src\features\shop\shop_repository.h" />
+    <ClCompile Include="..\src\game\battle_life.cpp" />
+    <ClInclude Include="..\src\game\battle_life.h" />
+    <ClCompile Include="..\src\game\battle_life_kick.cpp" />
+    <ClCompile Include="..\src\game\battle_projectiles.cpp" />
+    <ClInclude Include="..\src\game\battle_projectiles.h" />
+    <ClCompile Include="..\src\game\channel_directory.cpp" />
+    <ClInclude Include="..\src\game\channel_directory.h" />
+    <ClCompile Include="..\src\game\chat_directory.cpp" />
+    <ClInclude Include="..\src\game\chat_directory.h" />
+    <ClCompile Include="..\src\game\client_connection.cpp" />
+    <ClInclude Include="..\src\game\client_connection.h" />
+    <ClCompile Include="..\src\game\damage_attributes.cpp" />
+    <ClInclude Include="..\src\game\damage_attributes.h" />
+    <ClCompile Include="..\src\game\defense_seed_tables.cpp" />
+    <ClInclude Include="..\src\game\defense_seed_tables.h" />
+    <ClCompile Include="..\src\game\game_character_catalog.cpp" />
+    <ClInclude Include="..\src\game\game_character_catalog.h" />
+    <ClCompile Include="..\src\game\game_defense_catalog.cpp" />
+    <ClInclude Include="..\src\game\game_defense_catalog.h" />
+    <ClCompile Include="..\src\game\game_map_catalog.cpp" />
+    <ClInclude Include="..\src\game\game_map_catalog.h" />
+    <ClCompile Include="..\src\game\game_respawn_catalog.cpp" />
+    <ClInclude Include="..\src\game\game_respawn_catalog.h" />
+    <ClCompile Include="..\src\game\game_round_coordinator.cpp" />
+    <ClInclude Include="..\src\game\game_round_coordinator.h" />
+    <ClCompile Include="..\src\game\game_round_coordinator_defense.cpp" />
+    <ClCompile Include="..\src\game\game_round_coordinator_end.cpp" />
+    <ClCompile Include="..\src\game\game_round_coordinator_respawn.cpp" />
+    <ClCompile Include="..\src\game\game_session.cpp" />
+    <ClInclude Include="..\src\game\game_session.h" />
+    <ClCompile Include="..\src\game\game_session_chat.cpp" />
+    <ClCompile Include="..\src\game\game_session_ping.cpp" />
+    <ClCompile Include="..\src\game\game_session_plaza.cpp" />
+    <ClCompile Include="..\src\game\game_session_rooms.cpp" />
+    <ClCompile Include="..\src\game\game_settlement.cpp" />
+    <ClInclude Include="..\src\game\game_settlement.h" />
+    <ClCompile Include="..\src\game\game_weapon_catalog.cpp" />
+    <ClInclude Include="..\src\game\game_weapon_catalog.h" />
+    <ClCompile Include="..\src\game\health_trace_tracker.cpp" />
+    <ClInclude Include="..\src\game\health_trace_tracker.h" />
+    <ClCompile Include="..\src\game\impact_damage.cpp" />
+    <ClInclude Include="..\src\game\impact_damage.h" />
+    <ClCompile Include="..\src\game\player_damage.cpp" />
+    <ClInclude Include="..\src\game\player_damage.h" />
+    <ClCompile Include="..\src\game\plaza_directory.cpp" />
+    <ClInclude Include="..\src\game\plaza_directory.h" />
+    <ClCompile Include="..\src\game\room_directory.cpp" />
+    <ClInclude Include="..\src\game\room_directory.h" />
+    <ClCompile Include="..\src\game\session_ping_tracker.cpp" />
+    <ClInclude Include="..\src\game\session_ping_tracker.h" />
+    <ClCompile Include="..\src\logging\server_logger.cpp" />
+    <ClInclude Include="..\src\logging\server_logger.h" />
+    <ClCompile Include="..\src\network\tcp_listener.cpp" />
+    <ClInclude Include="..\src\network\tcp_listener.h" />
+    <ClCompile Include="..\src\persistence\my_sql_database.cpp" />
+    <ClInclude Include="..\src\persistence\my_sql_database.h" />
+    <ClCompile Include="..\src\protocol\battle_state_messages.cpp" />
+    <ClInclude Include="..\src\protocol\battle_state_messages.h" />
+    <ClCompile Include="..\src\protocol\character_messages.cpp" />
+    <ClInclude Include="..\src\protocol\character_messages.h" />
+    <ClCompile Include="..\src\protocol\chat_messages.cpp" />
+    <ClInclude Include="..\src\protocol\chat_messages.h" />
+    <ClCompile Include="..\src\protocol\damage_attribute_messages.cpp" />
+    <ClInclude Include="..\src\protocol\damage_attribute_messages.h" />
+    <ClCompile Include="..\src\protocol\damage_calculation_messages.cpp" />
+    <ClInclude Include="..\src\protocol\damage_calculation_messages.h" />
+    <ClCompile Include="..\src\protocol\defense_seed_messages.cpp" />
+    <ClInclude Include="..\src\protocol\defense_seed_messages.h" />
+    <ClCompile Include="..\src\protocol\game_end_messages.cpp" />
+    <ClInclude Include="..\src\protocol\game_end_messages.h" />
+    <ClCompile Include="..\src\protocol\game_result_messages.cpp" />
+    <ClInclude Include="..\src\protocol\game_result_messages.h" />
+    <ClCompile Include="..\src\protocol\game_start_messages.cpp" />
+    <ClInclude Include="..\src\protocol\game_start_messages.h" />
+    <ClCompile Include="..\src\protocol\health_report_messages.cpp" />
+    <ClInclude Include="..\src\protocol\health_report_messages.h" />
+    <ClCompile Include="..\src\protocol\inventory_messages.cpp" />
+    <ClInclude Include="..\src\protocol\inventory_messages.h" />
+    <ClCompile Include="..\src\protocol\lambda_packet_codec.cpp" />
+    <ClInclude Include="..\src\protocol\lambda_packet_codec.h" />
+    <ClCompile Include="..\src\protocol\lobby_messages.cpp" />
+    <ClInclude Include="..\src\protocol\lobby_messages.h" />
+    <ClCompile Include="..\src\protocol\login_messages.cpp" />
+    <ClInclude Include="..\src\protocol\login_messages.h" />
+    <ClCompile Include="..\src\protocol\main_menu_messages.cpp" />
+    <ClInclude Include="..\src\protocol\main_menu_messages.h" />
+    <ClCompile Include="..\src\protocol\nx_packet_codec.cpp" />
+    <ClInclude Include="..\src\protocol\nx_packet_codec.h" />
+    <ClCompile Include="..\src\protocol\packet_buffer.cpp" />
+    <ClInclude Include="..\src\protocol\packet_buffer.h" />
+    <ClCompile Include="..\src\protocol\peer_damage_messages.cpp" />
+    <ClInclude Include="..\src\protocol\peer_damage_messages.h" />
+    <ClCompile Include="..\src\protocol\peer_fire_messages.cpp" />
+    <ClInclude Include="..\src\protocol\peer_fire_messages.h" />
+    <ClCompile Include="..\src\protocol\peer_kick_messages.cpp" />
+    <ClInclude Include="..\src\protocol\peer_kick_messages.h" />
+    <ClCompile Include="..\src\protocol\peer_life_messages.cpp" />
+    <ClInclude Include="..\src\protocol\peer_life_messages.h" />
+    <ClCompile Include="..\src\protocol\peer_messages.cpp" />
+    <ClInclude Include="..\src\protocol\peer_messages.h" />
+    <ClCompile Include="..\src\protocol\peer_near_messages.cpp" />
+    <ClInclude Include="..\src\protocol\peer_near_messages.h" />
+    <ClCompile Include="..\src\protocol\plaza_messages.cpp" />
+    <ClInclude Include="..\src\protocol\plaza_messages.h" />
+    <ClCompile Include="..\src\protocol\relay_messages.cpp" />
+    <ClInclude Include="..\src\protocol\relay_messages.h" />
+    <ClCompile Include="..\src\protocol\respawn_messages.cpp" />
+    <ClInclude Include="..\src\protocol\respawn_messages.h" />
+    <ClCompile Include="..\src\protocol\room_messages.cpp" />
+    <ClInclude Include="..\src\protocol\room_messages.h" />
+    <ClCompile Include="..\src\protocol\score_messages.cpp" />
+    <ClInclude Include="..\src\protocol\score_messages.h" />
+    <ClCompile Include="..\src\protocol\session_member.cpp" />
+    <ClInclude Include="..\src\protocol\session_member.h" />
+    <ClCompile Include="..\src\protocol\session_ping_messages.cpp" />
+    <ClInclude Include="..\src\protocol\session_ping_messages.h" />
+    <ClCompile Include="..\src\protocol\session_setting.cpp" />
+    <ClInclude Include="..\src\protocol\session_setting.h" />
+    <ClCompile Include="..\src\protocol\shop_messages.cpp" />
+    <ClInclude Include="..\src\protocol\shop_messages.h" />
+    <ClCompile Include="..\src\protocol\user_stat_messages.cpp" />
+    <ClInclude Include="..\src\protocol\user_stat_messages.h" />
+    <ClCompile Include="..\src\relay\relay_directory.cpp" />
+    <ClInclude Include="..\src\relay\relay_directory.h" />
+    <ClCompile Include="..\src\relay\relay_listener.cpp" />
+    <ClInclude Include="..\src\relay\relay_listener.h" />
+  </ItemGroup>
+  <!-- END GENERATED SOURCES -->
+</Project>

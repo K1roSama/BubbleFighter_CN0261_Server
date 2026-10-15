@@ -1,0 +1,48 @@
+{
+  "gameMapsFile": "config/game_maps.json",
+  "gameWeaponsFile": "config/game_weapons.json",
+  "gameDefenseFile": "config/game_defense.json",
+  "gameCharactersFile": "config/game_characters.json",
+  "gameRespawnFile": "config/game_respawn.json",
+  "progressionFile": "config/progression.json",
+  "network": {
+    "listenAddress": "127.0.0.1",
+    "listenPort": 26100,
+    "maxConnections": 256,
+    "idleTimeoutSeconds": 60
+  },
+  "relay": {
+    "enabled": true,
+    "listenAddress": "127.0.0.1",
+    "listenPort": 26104,
+    "advertisedAddress": "127.0.0.1",
+    "maxConnections": 256,
+    "idleTimeoutSeconds": 120
+  },
+  "database": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "databaseName": "bubblefighter_cn0261",
+    "username": "bubblefighter_server",
+    "connectTimeoutSeconds": 5,
+    "queryTimeoutSeconds": 5,
+    "poolSize": 4,
+    "tlsMode": "require",
+    "verifyCertificate": true,
+    "caFile": ""
+  },
+  "authentication": {
+    "enabled": false,
+    "listenAddress": "127.0.0.1",
+    "listenPort": 26102,
+    "certificateFile": "config/authentication_certificate.pem",
+    "privateKeyFile": "config/authentication_private_key.pem",
+    "gameHost": "127.0.0.1"
+  },
+  "logging": {
+    "level": "info",
+    "directory": "Logs",
+    "maxFileSizeBytes": 5242880,
+    "maxFiles": 3
+  }
+}

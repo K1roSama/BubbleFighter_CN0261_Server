@@ -1,0 +1,575 @@
+{
+  "defaultRulesMap": "rel_Village01_Byway",
+  "maps": [
+    {
+      "resourceName": "rel_Apex01_Diorama",
+      "theme": "Military",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Apex02_LostTown",
+      "theme": "Military",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Cemetery01",
+      "theme": "Cemetery",
+      "difficulty": 5,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Cemetery02_Altar",
+      "theme": "Cemetery",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Cemetery03_Vampire",
+      "theme": "Cemetery",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Combat01_Junk",
+      "theme": "Military",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Combat02_Oil",
+      "theme": "Military",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Desert01_Oneway",
+      "theme": "Desert",
+      "difficulty": 4,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Desert02_Castle",
+      "theme": "Desert",
+      "difficulty": 4,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Desert03_Temple",
+      "theme": "Desert",
+      "difficulty": 2,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Desert04_Pharaoh",
+      "theme": "Desert",
+      "difficulty": 4,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Desert05_mummy",
+      "theme": "Desert",
+      "difficulty": 2,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Desert06_Market",
+      "theme": "Desert",
+      "difficulty": 4,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Forest01_Hill",
+      "theme": "Forest",
+      "difficulty": 2,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Forest02_Ravine",
+      "theme": "Forest",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Forest03_Waterfall",
+      "theme": "Forest",
+      "difficulty": 2,
+      "timeLimitMilliseconds": 239000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Forest04_PeterPan",
+      "theme": "Forest",
+      "difficulty": 5,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Forest05_CaveTemple",
+      "theme": "Forest",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Forest06_Bootcamp",
+      "theme": "Forest",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Ice01_Cave",
+      "theme": "Ice",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Ice02_Icepit",
+      "theme": "Ice",
+      "difficulty": 5,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Ice03_Valley",
+      "theme": "Ice",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Ice04_Twist",
+      "theme": "Ice",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Ice05_Twobridge",
+      "theme": "Ice",
+      "difficulty": 2,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Ice06_Container",
+      "theme": "Ice",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Ice07_Santavillage",
+      "theme": "Ice",
+      "difficulty": 5,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Space01_Spaceship",
+      "theme": "Space",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Space02_Station",
+      "theme": "Space",
+      "difficulty": 4,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Space03_Garage",
+      "theme": "Space",
+      "difficulty": 5,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Stadium01_Pangpang",
+      "theme": "Stadium",
+      "difficulty": 2,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Stadium02_Dome",
+      "theme": "Stadium",
+      "difficulty": 2,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Stadium04_Extreme",
+      "theme": "Stadium",
+      "difficulty": 5,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Stadium05_hill",
+      "theme": "Stadium",
+      "difficulty": 2,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Stadium06_Aqua",
+      "theme": "Stadium",
+      "difficulty": 2,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Stadium07_Seven",
+      "theme": "Stadium",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Sudden01_Warehouse",
+      "theme": "Sudden",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Sudden02_Aroom",
+      "theme": "Sudden",
+      "difficulty": 4,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Sudden03_Provence",
+      "theme": "Sudden",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Sudden04_angkor",
+      "theme": "Sudden",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Sudden05_CrossCounter",
+      "theme": "Sudden",
+      "difficulty": 4,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Village01_Byway",
+      "theme": "Village",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Village02_waterPark",
+      "theme": "Village",
+      "difficulty": 4,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Village03_CityHall",
+      "theme": "Village",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Village04_Station",
+      "theme": "Village",
+      "difficulty": 5,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Village05_Playground",
+      "theme": "Village",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 240000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Village06_CirclePark",
+      "theme": "Village",
+      "difficulty": 4,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Village07_Easy02",
+      "theme": "Village",
+      "difficulty": 1,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Village09_Parking",
+      "theme": "Village",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_Village10_Rooftop",
+      "theme": "Village",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_fairytale01_Beanstalk",
+      "theme": "Fairytale",
+      "difficulty": 5,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_fairytale02_AliceGarden",
+      "theme": "Fairytale",
+      "difficulty": 5,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_fairytale03_Oz",
+      "theme": "Fairytale",
+      "difficulty": 4,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_pirate01_tear",
+      "theme": "Pirate",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_pirate05_Dock",
+      "theme": "Pirate",
+      "difficulty": 2,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_pirate06_Navalbattle",
+      "theme": "Pirate",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_pirate07_Treasure",
+      "theme": "Pirate",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    },
+    {
+      "resourceName": "rel_village08_daohouse",
+      "theme": "Village",
+      "difficulty": 3,
+      "timeLimitMilliseconds": 241000,
+      "scoreLimit": 20,
+      "normalMode": true,
+      "itemMode": true,
+      "teamSpawnCount": 8
+    }
+  ]
+}
